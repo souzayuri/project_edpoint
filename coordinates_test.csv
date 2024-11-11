@@ -1,11 +1,11 @@
-Species,Place,Latitude,Longitude
-P001,CVVF03,-14.111571,-47.654702
-P002,CVVF03,-14.111476,-47.65482
-P003,CVVF03,-14.111436,-47.65461
-P004,CVVF03,-14.111325,-47.654684
-P005,CVVF03,-14.111316,-47.65484
-P006,CVVF03,-14.111219,-47.655028
-P007,CVVF03,-14.111061,-47.65491
-P008,CVVF03,-14.110866,-47.654979
-P009,CVVF03,-14.110851,-47.655173
-P010,CVVF03,-14.111014,-47.655265
+Order,Family,Genus,Species,Latitude,Longitude,Site,Reference
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-26.78333333,-60.45,Complejo Ecologico Municipal de Saenz Pena,Edentata N5 Ceresoli et al.
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-25.46666667,-61.9,Reserva Loro Hablador,Pagano obs. pers.
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-23.9,-61.85,Ing. Juarez,MACN
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-25.03333333,-58.2,P.N. Rio Pilcomayo,"Heinonen Fortabat, S., and Chebez, J. C. 1997. Los mamiferos de los Parques Nacionales de la Argentina. Monografia Especial L.O.L.A., 14:1-76."
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-30.21805556,-66.32611111,15 km de Chamical,Aguero et al. 2005. Diversidad y distribucion de dasipodidos en el chaco arido de la prov. De La Rioja. XX SAREM:98.
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-33.05,-67.21666667,Pampa de las Salinas,Nellar et al. Azara
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-30.31666667,-61.23333333,San Cristobal,Tabeni M. S. 2000. Catalogo de mamiferos autoctonos... Museo Prov. Cs. Nat. Florentino Ameghino
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-29.23333333,-61.76666667,Tostado,A. G. Giai El Hornero IX-2-:121-164
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-27.61666667,-62.16666667,Estacion Girardet,MLP
+Cingulata,Chlamyphoridae,Cabassous,Cabassous chacoensis,-27.73333333,-64.25,La Banda,"Yepes J. 1938. La fisiografia regional y la distribucion geografica de algunos de nuestros mamiferos. Revista del Centro de Estudiantes del Doctorado en Ciencias Naturales, Tomo 2 N 4."
